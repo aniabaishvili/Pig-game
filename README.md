@@ -8,4 +8,5 @@ And the one reaching 100 points is the winner. 🥇
 
 ## Screenshot
 
-![Uploading Screenshot 2023-09-03 at 15.07.41.png…]()
+![MWjbWaQ-800](https://github.com/aniabaishvili/Pig-game/assets/110342939/09a59829-6e0c-440f-b939-105a3da675fd)
+
